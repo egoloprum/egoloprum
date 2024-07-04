@@ -54,19 +54,19 @@
 -->                                                                                                                                                
 
 <p align="center">
-  <a href="https://github.com/sean-miningah">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=egoloprum&theme=radical&border=7F3FBF&background=0D1117" alt="Sean Miningah's GitHub streak"/>
+  <a href="https://github.com/egoloprum">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=egoloprum&theme=radical&border=7F3FBF&background=0D1117" alt="egoloprum's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sean-Miningah">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoloprum&theme=radical" alt="Sean Miningah's GitHub Contribution"/>
+  <a href="https://github.com/egoloprum">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egoloprum&theme=radical" alt="egoloprum's GitHub Contribution"/>
   </a>
 </p>  
 
 <a> 
-    <a href="https://github.com/egoloprum"><img alt="Sean Miningah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=egoloprum&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/egoloprum"><img alt="Sean Miningah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=egoloprum&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/egoloprum"><img alt="egoloprum's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=egoloprum&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/egoloprum"><img alt="egoloprum's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=egoloprum&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
